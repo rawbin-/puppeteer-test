@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "protocol-error-target-closed-repo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawbin-/puppeteer-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rawbin-/puppeteer-test/issues"
+  },
+  "homepage": "https://github.com/rawbin-/puppeteer-test#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
